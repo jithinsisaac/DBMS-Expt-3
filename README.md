@@ -6,7 +6,7 @@ Course Coordinator: Mr. Jithin Isaac
 ### Laboratory Experiment No. 3
  
 ### Objective  
-To implement Data Manipulation Language (DML) SQL commands, Insert, Manipulate & Delete data in database tables
+To implement Data Manipulation Language (DML) SQL commands; Insert, Manipulate & Delete data in database tables; Connect to a RDS instance on AWS
 
 ### Tools used  
 - Software: 
@@ -24,7 +24,7 @@ To implement Data Manipulation Language (DML) SQL commands, Insert, Manipulate &
 
 1. Insert data in the table by using suitable DML operations
 2. As per the list of deliverables, execute suitable DML SQL commands for Deletion & Updation of data
-3.  
+3. Start a RDS on AWS & Connect to the same.
 
 ### Final list of Deliverables for Expt 3
 
